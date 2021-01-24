@@ -271,3 +271,11 @@ int main() {
 
     return 0;
 }
+
+// tokenizer1 operation time: 1309 ms
+// tokenizer2 operation time: 1805 ms
+// tokenizer3 operation time: 765 ms
+// tokenizer4 operation time: 1203 ms
+// tokenizer5 operation time: 559 ms
+// tokenizer6 operation time: 1580 ms
+// tokenizer7 operation time: 650 ms
